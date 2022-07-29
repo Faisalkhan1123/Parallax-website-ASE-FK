@@ -56,3 +56,9 @@ body {
    background-color: #282e34; 
    color: #ddd;
 }
+@media screen and (max-width:600px){
+    .textbg{
+        display: block;
+        width: 100%;
+    }
+}
